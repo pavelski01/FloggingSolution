@@ -1,0 +1,16 @@
+C:\Users\skyski\Documents\Visual Studio 2017\Projects\FloggingSolution\Flogging.Wcf\bin\Release\Flogging.Wcf.dll.config
+C:\Users\skyski\Documents\Visual Studio 2017\Projects\FloggingSolution\Flogging.Wcf\bin\Release\Flogging.Wcf.dll
+C:\Users\skyski\Documents\Visual Studio 2017\Projects\FloggingSolution\Flogging.Wcf\bin\Release\Flogging.Wcf.pdb
+C:\Users\skyski\Documents\Visual Studio 2017\Projects\FloggingSolution\Flogging.Wcf\bin\Release\Flogging.Core.dll
+C:\Users\skyski\Documents\Visual Studio 2017\Projects\FloggingSolution\Flogging.Wcf\bin\Release\Serilog.dll
+C:\Users\skyski\Documents\Visual Studio 2017\Projects\FloggingSolution\Flogging.Wcf\bin\Release\Serilog.Sinks.MSSqlServer.dll
+C:\Users\skyski\Documents\Visual Studio 2017\Projects\FloggingSolution\Flogging.Wcf\bin\Release\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\skyski\Documents\Visual Studio 2017\Projects\FloggingSolution\Flogging.Wcf\bin\Release\Flogging.Core.pdb
+C:\Users\skyski\Documents\Visual Studio 2017\Projects\FloggingSolution\Flogging.Wcf\bin\Release\Flogging.Core.dll.config
+C:\Users\skyski\Documents\Visual Studio 2017\Projects\FloggingSolution\Flogging.Wcf\bin\Release\Serilog.xml
+C:\Users\skyski\Documents\Visual Studio 2017\Projects\FloggingSolution\Flogging.Wcf\bin\Release\Serilog.Sinks.MSSqlServer.xml
+C:\Users\skyski\Documents\Visual Studio 2017\Projects\FloggingSolution\Flogging.Wcf\bin\Release\Serilog.Sinks.PeriodicBatching.xml
+C:\Users\skyski\Documents\Visual Studio 2017\Projects\FloggingSolution\Flogging.Wcf\obj\Release\Flogging.Wcf.csprojResolveAssemblyReference.cache
+C:\Users\skyski\Documents\Visual Studio 2017\Projects\FloggingSolution\Flogging.Wcf\obj\Release\Flogging.Wcf.csproj.CoreCompileInputs.cache
+C:\Users\skyski\Documents\Visual Studio 2017\Projects\FloggingSolution\Flogging.Wcf\obj\Release\Flogging.Wcf.dll
+C:\Users\skyski\Documents\Visual Studio 2017\Projects\FloggingSolution\Flogging.Wcf\obj\Release\Flogging.Wcf.pdb

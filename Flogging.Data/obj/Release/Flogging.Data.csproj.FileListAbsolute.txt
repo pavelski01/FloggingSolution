@@ -1,0 +1,11 @@
+C:\Users\skyski\Documents\Visual Studio 2017\Projects\FloggingSolution\Flogging.Data\bin\Release\Flogging.Data.dll.config
+C:\Users\skyski\Documents\Visual Studio 2017\Projects\FloggingSolution\Flogging.Data\bin\Release\Flogging.Data.dll
+C:\Users\skyski\Documents\Visual Studio 2017\Projects\FloggingSolution\Flogging.Data\bin\Release\Flogging.Data.pdb
+C:\Users\skyski\Documents\Visual Studio 2017\Projects\FloggingSolution\Flogging.Data\bin\Release\EntityFramework.dll
+C:\Users\skyski\Documents\Visual Studio 2017\Projects\FloggingSolution\Flogging.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\skyski\Documents\Visual Studio 2017\Projects\FloggingSolution\Flogging.Data\bin\Release\EntityFramework.xml
+C:\Users\skyski\Documents\Visual Studio 2017\Projects\FloggingSolution\Flogging.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\skyski\Documents\Visual Studio 2017\Projects\FloggingSolution\Flogging.Data\obj\Release\Flogging.Data.csprojResolveAssemblyReference.cache
+C:\Users\skyski\Documents\Visual Studio 2017\Projects\FloggingSolution\Flogging.Data\obj\Release\Flogging.Data.csproj.CoreCompileInputs.cache
+C:\Users\skyski\Documents\Visual Studio 2017\Projects\FloggingSolution\Flogging.Data\obj\Release\Flogging.Data.dll
+C:\Users\skyski\Documents\Visual Studio 2017\Projects\FloggingSolution\Flogging.Data\obj\Release\Flogging.Data.pdb
